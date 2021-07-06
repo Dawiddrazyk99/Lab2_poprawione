@@ -4,7 +4,7 @@ package pl.lublin.wsei.java.cwiczenia.mylib;
 
 public class Account {
     private String name;
-    public void setName(String name)
+/*    public void setName(String name)
     {
         this.name = name;
     }
@@ -13,4 +13,4 @@ public class Account {
         return name;
     }
 
-}
+} */
