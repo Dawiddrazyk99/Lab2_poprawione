@@ -5,6 +5,7 @@ import pl.lublin.wsei.java.cwiczenia.mylib.Account;
 //import java.until.Scanner;
 
 public class Main {
+
     public static void main(String[] args) {
 
         Account acc = new Account();
